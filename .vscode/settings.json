@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        ".clang-format": "yaml",
+        "*.ui": "xml",
+        "*.drawio": "xml",
+        "*.qrc": "xml",
+        "xstring": "cpp",
+        "ios": "cpp",
+        "xstddef": "cpp",
+        "utility": "cpp",
+        "xhash": "cpp",
+        "vector": "cpp"
+    },
+    "python.analysis.typeCheckingMode": "basic"
+}

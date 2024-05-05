@@ -38,6 +38,9 @@ istream& operator>>(istream& stream, vector<T>& nums) {
 
 class Solution {
 public:
+    string capitalizeTitle(string title) {
+        return title;
+    }
 };
 
 // ________________________________________________________
@@ -48,4 +51,6 @@ int main() {
     // close io sync
     ios::sync_with_stdio(false);
     // cin.tie(NULL);
+    Solution solution;
+    cout << solution.capitalizeTitle("the quICk brown fox is mine");
 }

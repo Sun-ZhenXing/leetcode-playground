@@ -4,8 +4,8 @@ from leetcode.collections import *
 
 
 class Solution:
-    ...
+    pass
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     print_debug(Solution)
